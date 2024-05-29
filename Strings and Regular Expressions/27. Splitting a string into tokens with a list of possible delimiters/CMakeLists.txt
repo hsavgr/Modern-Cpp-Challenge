@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(27__Splitting_a_string_into_tokens_with_a_list_of_possible_delimiters)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(27__Splitting_a_string_into_tokens_with_a_list_of_possible_delimiters main.cpp)
